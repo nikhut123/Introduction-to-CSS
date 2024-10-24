@@ -1,0 +1,16 @@
+h3{
+    color: rgb(189, 255, 255);
+    background-color: rgb(252, 216, 255);
+}
+*{
+    color: #c76262;
+    background-color: #fdc0c0;
+}
+h1{
+    color: #ffc9ff;
+    background-color: hsl(278, 100%, 86%);
+}
+h2{
+    color: rgb(213, 255, 165);
+    background-color: #ffb3b3;
+}
